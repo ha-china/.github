@@ -7,9 +7,6 @@
 
 🌐 官方网站：[https://www.hasscn.top](https://www.hasscn.top)
 
-📱 微信公众号：
-
-![公众号](https://github.com/ha-china/HAOS-CN/raw/main/img/WeChat_QRCode.png)
 
 ---
 
