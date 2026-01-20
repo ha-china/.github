@@ -11,7 +11,7 @@
   - 所有内容均为开源，支持自由使用，不涉及任何商业化运作。
 - 💰 **非营利性**
   - 严禁利用本组织提供的公共资源进行任何商业盈利活动。
-  - 我们是一群 Home Assistant 爱好者志愿者，致力于为中国用户乃至全球用户提供一个安全、稳定且高效的 Home Assistant 平台。
+  - 我们是一群 Home Assistant 爱好者志愿者，致力于为中国用户提供一个安全、稳定且高效的 Home Assistant 平台。
   - 部分开源项目也适合全球用户使用，欢迎大家共同参与和交流。
 
 🌐 **官方网址**：[https://www.hasscn.top](https://www.hasscn.top)
@@ -32,7 +32,7 @@ Welcome to the HA-China volunteer organization!
   - All content is open source and free to use, with no commercial operations involved.
 - 💰 **Nonprofit**
   - It is strictly prohibited to use any public resources provided by this organization for commercial profit.
-  - We are a group of Home Assistant enthusiast volunteers, dedicated to providing a safe, stable, and efficient Home Assistant platform for users in China and around the world.
+  - We are a group of Home Assistant enthusiast volunteers, dedicated to providing a safe, stable, and efficient Home Assistant platform for users in China.
   - Some open-source projects are also suitable for global users. Everyone is welcome to participate and communicate.
 
 🌐 **Official Website**: [https://www.hasscn.top](https://www.hasscn.top)
