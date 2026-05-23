@@ -3,28 +3,38 @@
 欢迎来到HA-China志愿者组织！
 Welcome to the HA-China volunteer organization!
 
+
+
 ## 📜 组织理念 / Principles
-- ⚖️ **法律合规** / **Legal Compliance**
-  - 所有内容都严格遵守中国法律法规。
-    - All content strictly abides by the laws and regulations of China.
-  - 坚决不涉及任何形式的逆向工程、破解、盗版、模拟登录等违法违规内容。
-    - Absolutely no involvement in any form of reverse engineering, cracking, piracy, simulated login, or other illegal activities.
-- 🔒 **稳定为先** / **Stability First**
-  - 我们仅专注于系统的性能优化与加速功能，始终把系统稳定性放在首位。
-    - We focus solely on performance optimization and acceleration features, always prioritizing system stability.
-  - 所有内容均为开源，支持自由使用，不涉及任何商业化运作。
-    - All content is open source and free to use, with no commercial operations involved.
-- 💰 **非营利性** / **Nonprofit**
-  - 未经允许，禁止利用本组织提供的公共资源进行任何商业盈利活动。
-    - Without permission, it is strictly forbidden to use the public resources provided by this organization for any commercial gain.
-  - 我们是一群 Home Assistant 爱好者志愿者，致力于为中国用户提供一个安全、稳定且高效的 Home Assistant 平台。
-    - We are a group of Home Assistant enthusiast volunteers, dedicated to providing a safe, stable, and efficient Home Assistant platform for users in China.
-  - 部分开源项目也适合全球用户使用，欢迎大家共同参与和交流。
-    - Some open-source projects are also suitable for global users. Everyone is welcome to participate and communicate.
 
-- 🌐 **官方网址** / **Official Website**
-  - [https://www.hasscn.top](https://www.hasscn.top)
+- ⚖️ **法律合规 / Legal Compliance**  
+  所有内容严格遵守中国法律法规，绝不涉及逆向、破解、盗版、模拟登录等非法行为。  
+  All content strictly abides by Chinese laws and never involves reverse engineering, cracking, piracy, or simulated login.
 
+- 🔒 **稳定为先 / Stability First**  
+  仅专注性能优化与加速，始终以系统稳定为首；所有内容开源，支持自由使用，不涉商业运作。  
+  Focused on optimization and acceleration with stability as the priority; fully open source and non-commercial.
+
+- 💰 **非营利性 / Nonprofit**  
+  严禁未授权的商业利用。我们是一群 Home Assistant 爱好者志愿者，致力于为中国及全球用户提供安全、稳定、高效的平台，欢迎大家参与交流。  
+  No commercial use without permission. We are HA enthusiast volunteers serving Chinese and global users with a safe, stable, efficient platform—participation is welcome!
+
+---
+
+- 👥 **致组织成员 / To Organization Members**  
+  感谢每一位成员的付出！你们的热情让 HA-China 不断壮大进步。  
+  Thanks to all members—your dedication makes HA-China grow!
+
+---
+
+- 📦 **项目转移与加入倡议 / Repo Transfer & Membership**  
+  欢迎愿意将 Home Assistant 相关仓库转入本组织，让资源更集中；不符条款的请保留个人账号。中国开发者（或常驻中国）也欢迎加入，让我们一起更强大！  
+  Welcome to transfer HA-related repos for better centralization (if compliant); non-compliant ones please keep under your own account. Developers in or from China are also welcome to join!
+
+
+---
+- 🌐 **官方网址** / **Official Website** :   [https://www.hasscn.top](https://www.hasscn.top)
+---
 
 - 📱 **微信公众号** / **WeChat Official Account**:
 
