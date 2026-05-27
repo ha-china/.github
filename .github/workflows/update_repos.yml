@@ -16,6 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
       - name: Generate Repo List
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,6 +39,9 @@ jobs:
               "Accept": "application/vnd.github+json"
           }
 
+          # ---------------------------
+          # 1. 拉取所有 repo
+          # ---------------------------
           repos = []
           page = 1
 
@@ -48,36 +56,93 @@ jobs:
               repos.extend(data)
               page += 1
 
+          # ---------------------------
+          # 2. 基础过滤
+          # ---------------------------
           repos = [
               r for r in repos
               if not r["fork"]
               and not r["archived"]
               and not r["private"]
+              and r["name"] != ".github"
           ]
 
-          repos.sort(
-              key=lambda x: x["stargazers_count"],
+          # ---------------------------
+          # 3. 获取“真实最后活跃时间”
+          #    release > updated_at
+          # ---------------------------
+          def get_last_activity(repo):
+              # 1. 尝试 release
+              try:
+                  url = repo["releases_url"].replace("{/id}", "")
+                  r = requests.get(url, headers=headers, timeout=10)
+
+                  if r.status_code == 200:
+                      data = r.json()
+                      if data and len(data) > 0:
+                          return data[0].get("published_at") or repo.get("updated_at")
+              except:
+                  pass
+
+              # 2. fallback commit/activity
+              return repo.get("updated_at", "1970-01-01T00:00:00Z")
+
+          for r in repos:
+              r["last_activity"] = get_last_activity(r)
+
+          # ---------------------------
+          # 4. pinned 置顶
+          # ---------------------------
+          PINNED = ["haos-cn", "hassio-addons"]
+
+          pinned = []
+          others = []
+
+          for r in repos:
+              name = r["name"].lower()
+
+              if name in PINNED:
+                  pinned.append(r)
+              else:
+                  others.append(r)
+
+          pinned.sort(key=lambda x: PINNED.index(x["name"].lower()))
+
+          # ---------------------------
+          # 5. 按真实 activity 排序
+          # ---------------------------
+          others.sort(
+              key=lambda x: x["last_activity"],
               reverse=True
           )
 
+          repos = pinned + others
+
+          # ---------------------------
+          # 6. 生成 Markdown
+          # ---------------------------
           lines = []
-          lines.append("| Project | Description | Stars |")
-          lines.append("|---|---|---|")
+          lines.append("| Project | Description | Last Activity | Stars |")
+          lines.append("|---|---|---|---|")
 
           for repo in repos:
               name = repo["name"]
               desc = repo["description"] or ""
               stars = repo["stargazers_count"]
               url = repo["html_url"]
+              activity = repo["last_activity"]
 
               desc = desc.replace("\n", " ").replace("|", "\\|")
 
               lines.append(
-                  f"| [{name}]({url}) | {desc} | ⭐ {stars} |"
+                  f"| [{name}]({url}) | {desc} | {activity[:10]} | ⭐ {stars} |"
               )
 
           content = "\n".join(lines)
 
+          # ---------------------------
+          # 7. 写入 README
+          # ---------------------------
           readme_path = "profile/README.md"
 
           with open(readme_path, "r", encoding="utf-8") as f:
@@ -91,16 +156,12 @@ jobs:
               "\n<!-- repo-list-end -->"
           )
 
-          new_readme = re.sub(
-              pattern,
-              replacement,
-              readme,
-              flags=re.S
-          )
+          new_readme = re.sub(pattern, replacement, readme, flags=re.S)
 
           with open(readme_path, "w", encoding="utf-8") as f:
               f.write(new_readme)
 
+          print("done")
           EOF
 
       - name: Commit Changes
@@ -110,6 +171,6 @@ jobs:
 
           git add profile/README.md
 
-          git diff --cached --quiet || git commit -m "Auto update repo list"
+          git diff --cached --quiet || git commit -m "auto: update repo list"
 
           git push
