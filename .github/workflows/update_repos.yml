@@ -64,6 +64,7 @@ jobs:
               and not r["archived"]
               and not r["private"]
               and not r["name"].lower().startswith(".github")
+              and r["name"] != "Flasher"
           ]
 
           def get_last_activity(repo):
