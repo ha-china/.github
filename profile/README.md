@@ -43,7 +43,7 @@ Welcome to the HA-China volunteer organization!
 ---
 
 - 📦 **所有项目** / **All Projects**
-- 
+
 ---
 <!-- repo-list-start -->
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
