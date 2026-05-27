@@ -44,6 +44,8 @@ Welcome to the HA-China volunteer organization!
 
 - 📦 **所有项目** / **All Projects**
 
+  *以下项目列表每 12 小时自动更新一次。 / The project list below is automatically updated every 12 hours.*
+
 ---
 <!-- repo-list-start -->
 <table>
