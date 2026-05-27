@@ -210,15 +210,6 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 <tr>
 <td width="50%" valign="top">
 
-### [Flasher](https://github.com/ha-china/Flasher)
-
-⭐ 0 · 📅 2025-12-06
-
-这是一个HAOS刷机工具的开源仓库
-
-</td>
-<td width="50%" valign="top">
-
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
 ⭐ 954 · 📅 2025-10-16
@@ -226,8 +217,6 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Emby-HA](https://github.com/ha-china/Emby-HA)
@@ -237,7 +226,6 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 将 Emby 媒体服务器完美集成到 Home Assistant，实时监控服务器状态、播放活动和媒体库统计。
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 <!-- repo-list-end -->
