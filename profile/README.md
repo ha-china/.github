@@ -39,3 +39,8 @@ Welcome to the HA-China volunteer organization!
 - 📱 **微信公众号** / **WeChat Official Account**:
 
   - ![WeChat QR Code](https://github.com/ha-china/HAOS-CN/raw/main/img/WeChat_QRCode.png)
+
+## 📦 所有项目
+
+<!-- repo-list-start -->
+<!-- repo-list-end -->
