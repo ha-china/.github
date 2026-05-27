@@ -3,7 +3,7 @@
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORG_NAME: ha-china
         run: |
-          python - << 'EOF'
+          cat << 'EOF' > script.py
 import os
 import requests
 import re
@@ -67,7 +67,6 @@ for r in repos:
         others.append(r)
 
 pinned.sort(key=lambda x: PINNED.index(x["name"].lower()))
-
 others.sort(key=lambda x: x["last_activity"], reverse=True)
 
 repos = pinned + others
@@ -110,13 +109,4 @@ with open("profile/README.md", "w", encoding="utf-8") as f:
 print("done")
 EOF
 
-      - name: Commit Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add profile/README.md
-
-          git diff --cached --quiet || git commit -m "auto: update repo list"
-
-          git push
+          python script.py
