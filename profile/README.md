@@ -43,25 +43,172 @@ Welcome to the HA-China volunteer organization!
 - 📦 **所有项目** / **All Projects**
 
 <!-- repo-list-start -->
-| Project | Description | Last Activity | Stars |
-|---|---|---|---|
-| [HAOS-CN](https://github.com/ha-china/HAOS-CN) | Home Assistant OS Turbo is specifically optimized for the China region. All modifications are made solely for acceleration and compliance purposes, without altering any other information within the system. | 2026-05-18 | ⭐ 234 |
-| [hassio-addons](https://github.com/ha-china/hassio-addons) | This repo is intended for use only in mainland China. If you are outside the mainland, please use the links from the original authors below. | 2026-05-26 | ⭐ 35 |
-| [virtual_devices](https://github.com/ha-china/virtual_devices) | This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing you to create virtual devices with multiple entities under a single device, ideal for testing, demonstrations, and development purposes. | 2026-05-27 | ⭐ 9 |
-| [ha_claw](https://github.com/ha-china/ha_claw) | As an aggregated AI feature of Home Assistant, it is designed to integrate and control third-party AI plug-ins. And has three-terminal dialogue aggregation function | 2026-05-26 | ⭐ 83 |
-| [blueprint-studio](https://github.com/ha-china/blueprint-studio) | Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highlighting, multi-tab support, and file    management | 2026-05-26 | ⭐ 104 |
-| [html-card-pro](https://github.com/ha-china/html-card-pro) | A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to instantly beautify your smart home interface. | 2026-05-26 | ⭐ 69 |
-| [ai_hub](https://github.com/ha-china/ai_hub) | This home assistant integration is a completely free AI service, an integration built from various free resources available on the Internet, allowing users to experience more possibilities. | 2026-05-21 | ⭐ 36 |
-| [heiman_home](https://github.com/ha-china/heiman_home) | Heiman cloud integration | 2026-05-21 | ⭐ 1 |
-| [cn_im_hub](https://github.com/ha-china/cn_im_hub) | Instant Message platform | 2026-05-20 | ⭐ 38 |
-| [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets) | 咕御用esphome组件 | 2026-05-19 | ⭐ 7 |
-| [bubble-card-zh](https://github.com/ha-china/bubble-card-zh) | Bubble Card 中文汉化版 - Home Assistant 极简卡片集合 | 2026-05-16 | ⭐ 17 |
-| [genelec](https://github.com/ha-china/genelec) | A Home Assistant integration designed for Genele Smart IP Devices | 2026-04-23 | ⭐ 2 |
-| [ha-windows](https://github.com/ha-china/ha-windows) | home assistant windows client, zero configuration | 2026-04-13 | ⭐ 50 |
-| [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant) |  | 2026-04-12 | ⭐ 4 |
-| [ha-reachy-mini-card](https://github.com/ha-china/ha-reachy-mini-card) | a home assistant card for reachy mini | 2026-03-12 | ⭐ 5 |
-| [ha-mac-Companion](https://github.com/ha-china/ha-mac-Companion) | Utilize the official esphome protocol to access your MacMini Macbook for advanced features | 2026-01-17 | ⭐ 0 |
-| [Flasher](https://github.com/ha-china/Flasher) | 这是一个HAOS刷机工具的开源仓库 | 2025-12-06 | ⭐ 0 |
-| [hass-panel](https://github.com/ha-china/hass-panel) | 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用 | 2025-10-16 | ⭐ 954 |
-| [Emby-HA](https://github.com/ha-china/Emby-HA) | 将 Emby 媒体服务器完美集成到 Home Assistant，实时监控服务器状态、播放活动和媒体库统计。 | 2025-10-11 | ⭐ 6 |
+### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
+
+⭐ 234 · 📅 2026-05-18
+
+Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
+
+
+---
+
+### [hassio-addons](https://github.com/ha-china/hassio-addons)
+
+⭐ 35 · 📅 2026-05-26
+
+This repo is intended for use only in mainland China. If you are outside the mainland, ple...
+
+
+---
+
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
+
+⭐ 9 · 📅 2026-05-27
+
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
+
+
+---
+
+### [ha_claw](https://github.com/ha-china/ha_claw)
+
+⭐ 83 · 📅 2026-05-26
+
+As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
+
+
+---
+
+### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
+
+⭐ 104 · 📅 2026-05-26
+
+Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
+
+
+---
+
+### [html-card-pro](https://github.com/ha-china/html-card-pro)
+
+⭐ 69 · 📅 2026-05-26
+
+A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
+
+
+---
+
+### [ai_hub](https://github.com/ha-china/ai_hub)
+
+⭐ 36 · 📅 2026-05-21
+
+This home assistant integration is a completely free AI service, an integration built from...
+
+
+---
+
+### [heiman_home](https://github.com/ha-china/heiman_home)
+
+⭐ 1 · 📅 2026-05-21
+
+Heiman cloud integration
+
+
+---
+
+### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
+
+⭐ 38 · 📅 2026-05-20
+
+Instant Message platform
+
+
+---
+
+### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
+
+⭐ 7 · 📅 2026-05-19
+
+咕御用esphome组件
+
+
+---
+
+### [bubble-card-zh](https://github.com/ha-china/bubble-card-zh)
+
+⭐ 17 · 📅 2026-05-16
+
+Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
+
+
+---
+
+### [genelec](https://github.com/ha-china/genelec)
+
+⭐ 2 · 📅 2026-04-23
+
+A Home Assistant integration designed for Genele Smart IP Devices
+
+
+---
+
+### [ha-windows](https://github.com/ha-china/ha-windows)
+
+⭐ 50 · 📅 2026-04-13
+
+home assistant windows client, zero configuration
+
+
+---
+
+### [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant)
+
+⭐ 4 · 📅 2026-04-12
+
+
+
+
+---
+
+### [ha-reachy-mini-card](https://github.com/ha-china/ha-reachy-mini-card)
+
+⭐ 5 · 📅 2026-03-12
+
+a home assistant card for reachy mini
+
+
+---
+
+### [ha-mac-Companion](https://github.com/ha-china/ha-mac-Companion)
+
+⭐ 0 · 📅 2026-01-17
+
+Utilize the official esphome protocol to access your MacMini Macbook for advanced features
+
+
+---
+
+### [Flasher](https://github.com/ha-china/Flasher)
+
+⭐ 0 · 📅 2025-12-06
+
+这是一个HAOS刷机工具的开源仓库
+
+
+---
+
+### [hass-panel](https://github.com/ha-china/hass-panel)
+
+⭐ 954 · 📅 2025-10-16
+
+史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
+
+
+---
+
+### [Emby-HA](https://github.com/ha-china/Emby-HA)
+
+⭐ 6 · 📅 2025-10-11
+
+将 Emby 媒体服务器完美集成到 Home Assistant，实时监控服务器状态、播放活动和媒体库统计。
+
 <!-- repo-list-end -->
