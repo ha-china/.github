@@ -20,11 +20,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          
+
       - name: Generate Repo List
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -61,41 +62,38 @@ jobs:
               page += 1
 
           # ---------------------------
-          # 2. 基础过滤
+          # 2. 过滤
           # ---------------------------
           repos = [
               r for r in repos
               if not r["fork"]
               and not r["archived"]
               and not r["private"]
-              and r["name"] != ".github"
+              and not r["name"].lower().startswith(".github")
           ]
 
           # ---------------------------
-          # 3. 获取“真实最后活跃时间”
-          #    release > updated_at
+          # 3. 获取最后活跃时间（release > updated）
           # ---------------------------
           def get_last_activity(repo):
-              # 1. 尝试 release
               try:
                   url = repo["releases_url"].replace("{/id}", "")
-                  r = requests.get(url, headers=headers, timeout=10)
+                  r = requests.get(url, headers=headers, timeout=8)
 
                   if r.status_code == 200:
                       data = r.json()
-                      if data and len(data) > 0:
+                      if data:
                           return data[0].get("published_at") or repo.get("updated_at")
               except:
                   pass
 
-              # 2. fallback commit/activity
               return repo.get("updated_at", "1970-01-01T00:00:00Z")
 
           for r in repos:
               r["last_activity"] = get_last_activity(r)
 
           # ---------------------------
-          # 4. pinned 置顶
+          # 4. pinned
           # ---------------------------
           PINNED = ["haos-cn", "hassio-addons"]
 
@@ -103,9 +101,7 @@ jobs:
           others = []
 
           for r in repos:
-              name = r["name"].lower()
-
-              if name in PINNED:
+              if r["name"].lower() in PINNED:
                   pinned.append(r)
               else:
                   others.append(r)
@@ -113,7 +109,7 @@ jobs:
           pinned.sort(key=lambda x: PINNED.index(x["name"].lower()))
 
           # ---------------------------
-          # 5. 按真实 activity 排序
+          # 5. others 按 activity 排序
           # ---------------------------
           others.sort(
               key=lambda x: x["last_activity"],
@@ -123,26 +119,32 @@ jobs:
           repos = pinned + others
 
           # ---------------------------
-          # 6. 生成 Markdown
+          # 6. 卡片式 Markdown（防止挤压）
           # ---------------------------
-          lines = []
-          lines.append("| Project | Description | Last Activity | Stars |")
-          lines.append("|---|---|---|---|")
+          blocks = []
 
           for repo in repos:
               name = repo["name"]
               desc = repo["description"] or ""
               stars = repo["stargazers_count"]
               url = repo["html_url"]
-              activity = repo["last_activity"]
+              activity = repo["last_activity"][:10]
 
               desc = desc.replace("\n", " ").replace("|", "\\|")
 
-              lines.append(
-                  f"| [{name}]({url}) | {desc} | {activity[:10]} | ⭐ {stars} |"
-              )
+              if len(desc) > 90:
+                  desc = desc[:90] + "..."
 
-          content = "\n".join(lines)
+              # 卡片结构（不会换行挤压）
+              block = f"""### [{name}]({url})
+
+⭐ {stars} · 📅 {activity}
+
+{desc}
+"""
+              blocks.append(block)
+
+          content = "\n\n---\n\n".join(blocks)
 
           # ---------------------------
           # 7. 写入 README
