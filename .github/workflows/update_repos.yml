@@ -99,7 +99,7 @@ jobs:
 
           repos = pinned + others
 
-          blocks = []
+          cells = []
 
           for repo in repos:
               name = repo["name"]
@@ -113,14 +113,16 @@ jobs:
               if len(desc) > 90:
                   desc = desc[:90] + "..."
 
-              blocks.append(f"""### [{name}]({url})
+              cells.append(f"""<td width=\"50%\" valign=\"top\">\n\n### [{name}]({url})\n\n⭐ {stars} · 📅 {activity}\n\n{desc}\n\n</td>""")
 
-          ⭐ {stars} · 📅 {activity}
+          rows = []
 
-          {desc}
-          """)
+          for i in range(0, len(cells), 2):
+              left = cells[i]
+              right = cells[i + 1] if i + 1 < len(cells) else "<td width=\"50%\"></td>"
+              rows.append(f"<tr>\n{left}\n{right}\n</tr>")
 
-          content = "\n\n---\n\n".join(blocks)
+          content = "<table>\n" + "\n".join(rows) + "\n</table>"
 
           with open("profile/README.md", "r", encoding="utf-8") as f:
               readme = f.read()
