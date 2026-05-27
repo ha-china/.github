@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-05-26
+⭐ 35 · 📅 2026-05-27
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -72,20 +72,20 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ha_claw](https://github.com/ha-china/ha_claw)
+
+⭐ 83 · 📅 2026-05-27
+
+As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
+
+</td>
+<td width="50%" valign="top">
+
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
 ⭐ 9 · 📅 2026-05-27
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
-
-</td>
-<td width="50%" valign="top">
-
-### [ha_claw](https://github.com/ha-china/ha_claw)
-
-⭐ 83 · 📅 2026-05-26
-
-As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 69 · 📅 2026-05-26
+⭐ 71 · 📅 2026-05-26
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
@@ -196,7 +196,7 @@ home assistant windows client, zero configuration
 
 ⭐ 5 · 📅 2026-03-12
 
-a home assistant card for reachy mini
+A custom Lovelace card that provides real-time 3D visualization of the Reachy Mini robot. ...
 
 </td>
 <td width="50%" valign="top">
