@@ -78,7 +78,7 @@ jobs:
 
           content = "\n".join(lines)
 
-          readme_path = ".github/profile/README.md"
+          readme_path = "profile/README.md"
 
           with open(readme_path, "r", encoding="utf-8") as f:
               readme = f.read()
