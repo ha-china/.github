@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-05-27
+⭐ 35 · 📅 2026-05-28
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -114,7 +114,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 71 · 📅 2026-05-26
+⭐ 72 · 📅 2026-05-26
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
@@ -214,7 +214,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 954 · 📅 2025-10-16
+⭐ 955 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
