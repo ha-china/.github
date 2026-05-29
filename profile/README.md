@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-05-28
+⭐ 35 · 📅 2026-05-29
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [html-card-pro](https://github.com/ha-china/html-card-pro)
+
+⭐ 75 · 📅 2026-05-29
+
+A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
+
+</td>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -79,17 +88,17 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Instant Message platform
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 84 · 📅 2026-05-27
+⭐ 85 · 📅 2026-05-27
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
@@ -99,24 +108,15 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
-<td width="50%" valign="top">
-
-### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
-
-⭐ 104 · 📅 2026-05-26
-
-Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [html-card-pro](https://github.com/ha-china/html-card-pro)
+### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 73 · 📅 2026-05-26
+⭐ 105 · 📅 2026-05-26
 
-A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
+Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
 <td width="50%" valign="top">
