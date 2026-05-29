@@ -83,7 +83,7 @@ Instant Message platform
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 83 · 📅 2026-05-27
+⭐ 84 · 📅 2026-05-27
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
@@ -114,7 +114,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 72 · 📅 2026-05-26
+⭐ 73 · 📅 2026-05-26
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
