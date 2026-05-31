@@ -183,7 +183,7 @@ home assistant windows client, zero configuration
 
 ### [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant)
 
-⭐ 4 · 📅 2026-04-12
+⭐ 5 · 📅 2026-04-12
 
 
 
