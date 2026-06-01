@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-05-31
+⭐ 35 · 📅 2026-06-01
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 87 · 📅 2026-05-30
+⭐ 88 · 📅 2026-05-30
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
@@ -83,7 +83,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 36 · 📅 2026-05-29
+⭐ 37 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
 
@@ -94,7 +94,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 75 · 📅 2026-05-29
+⭐ 76 · 📅 2026-05-29
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
@@ -105,7 +105,7 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 
 ⭐ 38 · 📅 2026-05-27
 
-Instant Message platform
+Instant Message platform，即时通信合集
 
 </td>
 </tr>
@@ -214,7 +214,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 957 · 📅 2025-10-16
+⭐ 958 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
