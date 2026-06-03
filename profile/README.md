@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 88 · 📅 2026-05-30
+⭐ 89 · 📅 2026-05-30
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
@@ -83,7 +83,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 37 · 📅 2026-05-29
+⭐ 38 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
 
@@ -214,7 +214,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 960 · 📅 2025-10-16
+⭐ 961 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
