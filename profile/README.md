@@ -123,7 +123,7 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 107 · 📅 2026-05-26
+⭐ 108 · 📅 2026-05-26
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
