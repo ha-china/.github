@@ -72,6 +72,26 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ha_claw](https://github.com/ha-china/ha_claw)
+
+⭐ 89 · 📅 2026-06-06
+
+As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
+
+</td>
+<td width="50%" valign="top">
+
+### [html-card-pro](https://github.com/ha-china/html-card-pro)
+
+⭐ 75 · 📅 2026-06-06
+
+A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
 ⭐ 114 · 📅 2026-06-04
@@ -81,31 +101,11 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 </td>
 <td width="50%" valign="top">
 
-### [ha_claw](https://github.com/ha-china/ha_claw)
-
-⭐ 89 · 📅 2026-05-30
-
-As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
 ⭐ 38 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
-
-</td>
-<td width="50%" valign="top">
-
-### [html-card-pro](https://github.com/ha-china/html-card-pro)
-
-⭐ 75 · 📅 2026-05-29
-
-A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
 
-⭐ 1 · 📅 2026-05-21
+⭐ 2 · 📅 2026-05-21
 
 Heiman cloud integration
 
