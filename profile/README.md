@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-06-07
+⭐ 35 · 📅 2026-06-08
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -72,13 +72,24 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
+
+⭐ 114 · 📅 2026-06-08
+
+Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
+
+</td>
+<td width="50%" valign="top">
+
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 89 · 📅 2026-06-06
+⭐ 90 · 📅 2026-06-06
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
@@ -86,17 +97,6 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 ⭐ 75 · 📅 2026-06-06
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
-
-⭐ 114 · 📅 2026-06-04
-
-Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +134,7 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
 
-⭐ 2 · 📅 2026-05-21
+⭐ 3 · 📅 2026-05-21
 
 Heiman cloud integration
 
