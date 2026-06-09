@@ -94,7 +94,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 75 · 📅 2026-06-06
+⭐ 76 · 📅 2026-06-06
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
