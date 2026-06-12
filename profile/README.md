@@ -94,7 +94,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 90 · 📅 2026-06-06
+⭐ 91 · 📅 2026-06-06
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
@@ -123,7 +123,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 37 · 📅 2026-05-27
+⭐ 38 · 📅 2026-05-27
 
 Instant Message platform，即时通信合集
 
