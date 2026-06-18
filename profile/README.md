@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 239 · 📅 2026-05-18
+⭐ 240 · 📅 2026-05-18
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -103,7 +103,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 77 · 📅 2026-06-06
+⭐ 79 · 📅 2026-06-06
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
@@ -114,7 +114,7 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 38 · 📅 2026-05-29
+⭐ 39 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
 
