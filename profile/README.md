@@ -174,7 +174,7 @@ A Home Assistant integration designed for Genele Smart IP Devices
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 50 · 📅 2026-04-13
+⭐ 51 · 📅 2026-04-13
 
 home assistant windows client, zero configuration
 
