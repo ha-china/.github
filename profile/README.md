@@ -63,9 +63,29 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-06-20
+⭐ 35 · 📅 2026-06-21
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
+
+⭐ 7 · 📅 2026-06-21
+
+咕御用esphome组件
+
+</td>
+<td width="50%" valign="top">
+
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
+
+⭐ 9 · 📅 2026-06-21
+
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 </tr>
@@ -81,17 +101,6 @@ Instant Message platform，即时通信合集
 </td>
 <td width="50%" valign="top">
 
-### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
-
-⭐ 7 · 📅 2026-06-17
-
-咕御用esphome组件
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
 ⭐ 117 · 📅 2026-06-09
@@ -99,6 +108,8 @@ Instant Message platform，即时通信合集
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
@@ -108,8 +119,6 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
@@ -119,6 +128,8 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -126,17 +137,6 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 ⭐ 39 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [virtual_devices](https://github.com/ha-china/virtual_devices)
-
-⭐ 9 · 📅 2026-05-27
-
-This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 <td width="50%" valign="top">
@@ -214,7 +214,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 967 · 📅 2025-10-16
+⭐ 968 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
