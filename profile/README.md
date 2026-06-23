@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-06-22
+⭐ 35 · 📅 2026-06-23
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -134,7 +134,7 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 39 · 📅 2026-05-29
+⭐ 40 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
 
