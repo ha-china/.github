@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-06-23
+⭐ 35 · 📅 2026-06-24
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
+
+⭐ 9 · 📅 2026-06-24
+
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
+
+</td>
 <td width="50%" valign="top">
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
@@ -86,17 +97,6 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 ⭐ 7 · 📅 2026-06-21
 
 咕御用esphome组件
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [virtual_devices](https://github.com/ha-china/virtual_devices)
-
-⭐ 9 · 📅 2026-06-21
-
-This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 <td width="50%" valign="top">
