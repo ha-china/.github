@@ -103,7 +103,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 38 · 📅 2026-06-21
+⭐ 39 · 📅 2026-06-21
 
 Instant Message platform，即时通信合集
 
@@ -134,7 +134,7 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 40 · 📅 2026-05-29
+⭐ 41 · 📅 2026-05-29
 
 This home assistant integration is a completely free AI service, an integration built from...
 
