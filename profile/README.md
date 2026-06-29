@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 2 · 📅 2026-06-28
+⭐ 7 · 📅 2026-06-28
 
 Home Assistant Skin Pro
 
@@ -123,7 +123,7 @@ Instant Message platform，即时通信合集
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 117 · 📅 2026-06-09
+⭐ 118 · 📅 2026-06-09
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
