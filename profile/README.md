@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 243 · 📅 2026-06-28
+⭐ 244 · 📅 2026-06-28
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-06-29
+⭐ 35 · 📅 2026-06-30
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 10 · 📅 2026-06-29
+⭐ 11 · 📅 2026-06-30
 
 Home Assistant Skin Pro
 
@@ -134,7 +134,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 79 · 📅 2026-06-06
+⭐ 80 · 📅 2026-06-06
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
