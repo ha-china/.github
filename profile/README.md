@@ -83,7 +83,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 48 · 📅 2026-07-05
+⭐ 47 · 📅 2026-07-05
 
 Home Assistant Skin Pro
 
