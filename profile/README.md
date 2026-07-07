@@ -63,9 +63,29 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-07-06
+⭐ 35 · 📅 2026-07-07
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
+
+⭐ 49 · 📅 2026-07-07
+
+Home Assistant Skin Pro
+
+</td>
+<td width="50%" valign="top">
+
+### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
+
+⭐ 0 · 📅 2026-07-07
+
+Home Assistant integration for Skins Pro card - download and manage skin themes
 
 </td>
 </tr>
@@ -81,17 +101,6 @@ This home assistant integration is a completely free AI service, an integration 
 </td>
 <td width="50%" valign="top">
 
-### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
-
-⭐ 47 · 📅 2026-07-05
-
-Home Assistant Skin Pro
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
 ⭐ 10 · 📅 2026-06-24
@@ -99,6 +108,8 @@ Home Assistant Skin Pro
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
@@ -108,8 +119,6 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
@@ -119,17 +128,17 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 咕御用esphome组件
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 39 · 📅 2026-06-21
+⭐ 38 · 📅 2026-06-21
 
 Instant Message platform，即时通信合集
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
@@ -139,6 +148,8 @@ Instant Message platform，即时通信合集
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
@@ -148,8 +159,6 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
@@ -159,6 +168,8 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 Heiman cloud integration
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [bubble-card-zh](https://github.com/ha-china/bubble-card-zh)
@@ -168,8 +179,6 @@ Heiman cloud integration
 Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [genelec](https://github.com/ha-china/genelec)
@@ -179,6 +188,8 @@ Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 A Home Assistant integration designed for Genele Smart IP Devices
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -188,8 +199,6 @@ A Home Assistant integration designed for Genele Smart IP Devices
 home assistant windows client, zero configuration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant)
@@ -199,6 +208,8 @@ home assistant windows client, zero configuration
 
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha-reachy-mini-card](https://github.com/ha-china/ha-reachy-mini-card)
@@ -208,8 +219,6 @@ home assistant windows client, zero configuration
 A custom Lovelace card that provides real-time 3D visualization of the Reachy Mini robot. ...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ha-mac-Companion](https://github.com/ha-china/ha-mac-Companion)
@@ -219,17 +228,17 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 Utilize the official esphome protocol to access your MacMini Macbook for advanced features
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 970 · 📅 2025-10-16
+⭐ 971 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Emby-HA](https://github.com/ha-china/Emby-HA)
@@ -239,7 +248,6 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 将 Emby 媒体服务器完美集成到 Home Assistant，实时监控服务器状态、播放活动和媒体库统计。
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 <!-- repo-list-end -->
