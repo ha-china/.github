@@ -76,7 +76,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ⭐ 49 · 📅 2026-07-07
 
-Home Assistant Skin Pro
+Home Assistant Skin Pro  史上最简单的仪表盘，一键安装，一键使用
 
 </td>
 <td width="50%" valign="top">
