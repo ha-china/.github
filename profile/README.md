@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 247 · 📅 2026-07-05
+⭐ 248 · 📅 2026-07-05
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 50 · 📅 2026-07-08
+⭐ 51 · 📅 2026-07-08
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -143,7 +143,7 @@ Instant Message platform，即时通信合集
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 118 · 📅 2026-06-09
+⭐ 117 · 📅 2026-06-09
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
