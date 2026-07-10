@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 248 · 📅 2026-07-05
+⭐ 247 · 📅 2026-07-05
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -94,7 +94,7 @@ Home Assistant integration for Skins Pro card - download and manage skin themes
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 42 · 📅 2026-07-06
+⭐ 41 · 📅 2026-07-06
 
 This home assistant integration is a completely free AI service, an integration built from...
 
