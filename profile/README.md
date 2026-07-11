@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 52 · 📅 2026-07-10
+⭐ 53 · 📅 2026-07-10
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -114,7 +114,7 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 94 · 📅 2026-06-22
+⭐ 95 · 📅 2026-06-22
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
