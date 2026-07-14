@@ -143,7 +143,7 @@ Instant Message platform，即时通信合集
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 117 · 📅 2026-06-09
+⭐ 118 · 📅 2026-06-09
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
