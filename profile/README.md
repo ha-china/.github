@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-07-14
+⭐ 35 · 📅 2026-07-15
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -72,20 +72,20 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
-### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
+### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
 
-⭐ 58 · 📅 2026-07-14
+⭐ 1 · 📅 2026-07-15
 
-Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
+Home Assistant integration for Skins Pro card - download and manage skin themes
 
 </td>
 <td width="50%" valign="top">
 
-### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
+### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 0 · 📅 2026-07-07
+⭐ 63 · 📅 2026-07-14
 
-Home Assistant integration for Skins Pro card - download and manage skin themes
+Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
 </tr>
