@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 249 · 📅 2026-07-05
+⭐ 250 · 📅 2026-07-05
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -72,20 +72,20 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
+
+⭐ 64 · 📅 2026-07-15
+
+Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
+
+</td>
+<td width="50%" valign="top">
+
 ### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
 
 ⭐ 1 · 📅 2026-07-15
 
 Home Assistant integration for Skins Pro card - download and manage skin themes
-
-</td>
-<td width="50%" valign="top">
-
-### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
-
-⭐ 63 · 📅 2026-07-14
-
-Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 95 · 📅 2026-06-22
+⭐ 96 · 📅 2026-06-22
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
