@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 65 · 📅 2026-07-17
+⭐ 66 · 📅 2026-07-17
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -83,7 +83,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
 
-⭐ 1 · 📅 2026-07-15
+⭐ 1 · 📅 2026-07-17
 
 Home Assistant integration for Skins Pro card - download and manage skin themes
 
