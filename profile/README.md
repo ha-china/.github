@@ -72,6 +72,15 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ai_hub](https://github.com/ha-china/ai_hub)
+
+⭐ 41 · 📅 2026-07-21
+
+This home assistant integration is a completely free AI service, an integration built from...
+
+</td>
+<td width="50%" valign="top">
+
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
 ⭐ 38 · 📅 2026-07-20
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Instant Message platform，即时通信合集
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
@@ -88,8 +99,6 @@ Instant Message platform，即时通信合集
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
@@ -97,15 +106,6 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 ⭐ 1 · 📅 2026-07-17
 
 Home Assistant integration for Skins Pro card - download and manage skin themes
-
-</td>
-<td width="50%" valign="top">
-
-### [ai_hub](https://github.com/ha-china/ai_hub)
-
-⭐ 41 · 📅 2026-07-06
-
-This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
 </tr>
