@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-07-22
+⭐ 35 · 📅 2026-07-23
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
+
+⭐ 12 · 📅 2026-07-23
+
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
+
+</td>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -88,8 +99,6 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -99,6 +108,8 @@ This home assistant integration is a completely free AI service, an integration 
 Instant Message platform，即时通信合集
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
@@ -106,17 +117,6 @@ Instant Message platform，即时通信合集
 ⭐ 1 · 📅 2026-07-17
 
 Home Assistant integration for Skins Pro card - download and manage skin themes
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [virtual_devices](https://github.com/ha-china/virtual_devices)
-
-⭐ 12 · 📅 2026-06-24
-
-This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 <td width="50%" valign="top">
