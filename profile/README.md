@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 12 · 📅 2026-07-23
+⭐ 13 · 📅 2026-07-23
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
