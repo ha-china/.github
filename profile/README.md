@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-07-28
+⭐ 35 · 📅 2026-07-29
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -83,7 +83,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 13 · 📅 2026-07-23
+⭐ 14 · 📅 2026-07-23
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
@@ -143,7 +143,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 121 · 📅 2026-06-09
+⭐ 122 · 📅 2026-06-09
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
