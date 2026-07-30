@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 252 · 📅 2026-07-05
+⭐ 253 · 📅 2026-07-05
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-07-29
+⭐ 35 · 📅 2026-07-30
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -72,24 +72,33 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
-### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
+### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 67 · 📅 2026-07-28
+⭐ 51 · 📅 2026-07-30
 
-Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
+home assistant windows client, zero configuration
 
 </td>
 <td width="50%" valign="top">
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 14 · 📅 2026-07-23
+⭐ 15 · 📅 2026-07-30
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
+
+⭐ 66 · 📅 2026-07-28
+
+Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
+
+</td>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -99,6 +108,8 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -108,8 +119,6 @@ This home assistant integration is a completely free AI service, an integration 
 Instant Message platform，即时通信合集
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
@@ -119,6 +128,8 @@ Instant Message platform，即时通信合集
 Home Assistant integration for Skins Pro card - download and manage skin themes
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
@@ -128,8 +139,6 @@ Home Assistant integration for Skins Pro card - download and manage skin themes
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
@@ -139,6 +148,8 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 咕御用esphome组件
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
@@ -148,8 +159,6 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
@@ -159,6 +168,8 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
@@ -168,8 +179,6 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 Heiman cloud integration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [bubble-card-zh](https://github.com/ha-china/bubble-card-zh)
@@ -179,6 +188,8 @@ Heiman cloud integration
 Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [genelec](https://github.com/ha-china/genelec)
@@ -186,17 +197,6 @@ Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 ⭐ 2 · 📅 2026-04-23
 
 A Home Assistant integration designed for Genele Smart IP Devices
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 51 · 📅 2026-04-13
-
-home assistant windows client, zero configuration
 
 </td>
 <td width="50%" valign="top">
