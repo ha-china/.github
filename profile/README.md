@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 253 · 📅 2026-07-31
+⭐ 255 · 📅 2026-07-31
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,9 +63,29 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-02
+⭐ 35 · 📅 2026-08-03
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ha-windows](https://github.com/ha-china/ha-windows)
+
+⭐ 51 · 📅 2026-08-03
+
+home assistant windows client, zero configuration
+
+</td>
+<td width="50%" valign="top">
+
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
+
+⭐ 16 · 📅 2026-08-03
+
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 </tr>
@@ -77,26 +97,6 @@ This repo is intended for use only in mainland China. If you are outside the mai
 ⭐ 66 · 📅 2026-07-31
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
-
-</td>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 51 · 📅 2026-07-30
-
-home assistant windows client, zero configuration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [virtual_devices](https://github.com/ha-china/virtual_devices)
-
-⭐ 15 · 📅 2026-07-30
-
-This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 <td width="50%" valign="top">
@@ -154,7 +154,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 122 · 📅 2026-06-09
+⭐ 123 · 📅 2026-06-09
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
@@ -183,7 +183,7 @@ Heiman cloud integration
 
 ### [bubble-card-zh](https://github.com/ha-china/bubble-card-zh)
 
-⭐ 17 · 📅 2026-05-16
+⭐ 18 · 📅 2026-05-16
 
 Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 
