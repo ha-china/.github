@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-03
+⭐ 35 · 📅 2026-08-04
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
+
+⭐ 66 · 📅 2026-08-04
+
+Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
+
+</td>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 home assistant windows client, zero configuration
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
@@ -86,17 +97,6 @@ home assistant windows client, zero configuration
 ⭐ 16 · 📅 2026-08-03
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
-
-⭐ 66 · 📅 2026-07-31
-
-Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
 <td width="50%" valign="top">
@@ -234,7 +234,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 972 · 📅 2025-10-16
+⭐ 973 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
