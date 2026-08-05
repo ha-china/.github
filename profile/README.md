@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 255 · 📅 2026-07-31
+⭐ 256 · 📅 2026-07-31
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-04
+⭐ 35 · 📅 2026-08-05
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 67 · 📅 2026-08-04
+⭐ 68 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -154,7 +154,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 123 · 📅 2026-06-09
+⭐ 124 · 📅 2026-06-09
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
@@ -183,7 +183,7 @@ Heiman cloud integration
 
 ### [bubble-card-zh](https://github.com/ha-china/bubble-card-zh)
 
-⭐ 18 · 📅 2026-05-16
+⭐ 17 · 📅 2026-05-16
 
 Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 
