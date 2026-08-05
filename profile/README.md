@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 66 · 📅 2026-08-04
+⭐ 67 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -234,7 +234,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 973 · 📅 2025-10-16
+⭐ 974 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
