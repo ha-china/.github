@@ -72,6 +72,15 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ezviz_push](https://github.com/ha-china/ezviz_push)
+
+⭐ 0 · 📅 2026-08-06
+
+萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
+
+</td>
+<td width="50%" valign="top">
+
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
 ⭐ 52 · 📅 2026-08-06
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 home assistant windows client, zero configuration
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -86,17 +97,6 @@ home assistant windows client, zero configuration
 ⭐ 41 · 📅 2026-08-06
 
 This home assistant integration is a completely free AI service, an integration built from...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ezviz_push](https://github.com/ha-china/ezviz_push)
-
-⭐ 0 · 📅 2026-08-06
-
-萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
 </td>
 <td width="50%" valign="top">
