@@ -72,13 +72,24 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
+
+⭐ 16 · 📅 2026-08-08
+
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
+
+</td>
+<td width="50%" valign="top">
+
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 0 · 📅 2026-08-07
+⭐ 1 · 📅 2026-08-07
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -88,8 +99,6 @@ This repo is intended for use only in mainland China. If you are outside the mai
 home assistant windows client, zero configuration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -99,6 +108,8 @@ home assistant windows client, zero configuration
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
@@ -106,17 +117,6 @@ This home assistant integration is a completely free AI service, an integration 
 ⭐ 69 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [virtual_devices](https://github.com/ha-china/virtual_devices)
-
-⭐ 16 · 📅 2026-08-03
-
-This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 <td width="50%" valign="top">
