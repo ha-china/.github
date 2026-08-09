@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 256 · 📅 2026-07-31
+⭐ 257 · 📅 2026-07-31
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-08
+⭐ 35 · 📅 2026-08-09
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 16 · 📅 2026-08-08
+⭐ 17 · 📅 2026-08-08
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
@@ -103,7 +103,7 @@ home assistant windows client, zero configuration
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 41 · 📅 2026-08-06
+⭐ 40 · 📅 2026-08-06
 
 This home assistant integration is a completely free AI service, an integration built from...
 
