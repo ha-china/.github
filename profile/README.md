@@ -114,7 +114,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 69 · 📅 2026-08-04
+⭐ 70 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -243,7 +243,7 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 975 · 📅 2025-10-16
+⭐ 978 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
