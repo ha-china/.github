@@ -123,7 +123,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 39 · 📅 2026-07-20
+⭐ 40 · 📅 2026-07-20
 
 Instant Message platform，即时通信合集
 
