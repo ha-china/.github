@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-09
+⭐ 35 · 📅 2026-08-11
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -72,20 +72,20 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
-### [virtual_devices](https://github.com/ha-china/virtual_devices)
+### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 17 · 📅 2026-08-08
+⭐ 1 · 📅 2026-08-11
 
-This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
+萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
 </td>
 <td width="50%" valign="top">
 
-### [ezviz_push](https://github.com/ha-china/ezviz_push)
+### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 1 · 📅 2026-08-07
+⭐ 17 · 📅 2026-08-11
 
-萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
+This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 40 · 📅 2026-07-20
+⭐ 41 · 📅 2026-07-20
 
 Instant Message platform，即时通信合集
 
