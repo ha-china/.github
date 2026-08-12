@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 257 · 📅 2026-07-31
+⭐ 258 · 📅 2026-07-31
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 1 · 📅 2026-08-11
+⭐ 2 · 📅 2026-08-11
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
