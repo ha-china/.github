@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-12
+⭐ 35 · 📅 2026-08-13
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -134,7 +134,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 41 · 📅 2026-07-20
+⭐ 42 · 📅 2026-07-20
 
 Instant Message platform，即时通信合集
 
@@ -232,24 +232,13 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 <tr>
 <td width="50%" valign="top">
 
-### [ha-mac-Companion](https://github.com/ha-china/ha-mac-Companion)
-
-⭐ 0 · 📅 2026-01-17
-
-Utilize the official esphome protocol to access your MacMini Macbook for advanced features
-
-</td>
-<td width="50%" valign="top">
-
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 978 · 📅 2025-10-16
+⭐ 979 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Emby-HA](https://github.com/ha-china/Emby-HA)
@@ -259,7 +248,6 @@ Utilize the official esphome protocol to access your MacMini Macbook for advance
 将 Emby 媒体服务器完美集成到 Home Assistant，实时监控服务器状态、播放活动和媒体库统计。
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 <!-- repo-list-end -->
