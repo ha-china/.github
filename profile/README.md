@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-13
+⭐ 35 · 📅 2026-08-14
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [ha-windows](https://github.com/ha-china/ha-windows)
+
+⭐ 52 · 📅 2026-08-14
+
+home assistant windows client, zero configuration
+
+</td>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
@@ -88,8 +99,6 @@ This home assistant integration is a completely free AI service, an integration 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
@@ -99,6 +108,8 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
@@ -108,22 +119,11 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 52 · 📅 2026-08-06
-
-home assistant windows client, zero configuration
-
-</td>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 70 · 📅 2026-08-04
+⭐ 71 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -234,7 +234,7 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 979 · 📅 2025-10-16
+⭐ 978 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
