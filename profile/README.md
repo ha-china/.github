@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-14
+⭐ 35 · 📅 2026-08-15
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 52 · 📅 2026-08-14
+⭐ 52 · 📅 2026-08-15
 
 home assistant windows client, zero configuration
 
@@ -94,7 +94,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 125 · 📅 2026-08-12
+⭐ 124 · 📅 2026-08-12
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
