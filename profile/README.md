@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 52 · 📅 2026-08-15
+⭐ 52 · 📅 2026-08-16
 
 home assistant windows client, zero configuration
 
