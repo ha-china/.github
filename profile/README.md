@@ -72,18 +72,18 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
-### [ezviz_push](https://github.com/ha-china/ezviz_push)
+### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 2 · 📅 2026-08-18
+⭐ 53 · 📅 2026-08-19
 
-萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
+home assistant windows client, zero configuration
 
 </td>
 <td width="50%" valign="top">
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
 
-⭐ 2 · 📅 2026-08-17
+⭐ 2 · 📅 2026-08-19
 
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
@@ -92,11 +92,11 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
-### [ha-windows](https://github.com/ha-china/ha-windows)
+### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 53 · 📅 2026-08-16
+⭐ 3 · 📅 2026-08-18
 
-home assistant windows client, zero configuration
+萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
 </td>
 <td width="50%" valign="top">
