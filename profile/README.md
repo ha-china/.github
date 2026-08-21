@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-08-20
+⭐ 35 · 📅 2026-08-21
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -103,7 +103,7 @@ home assistant windows client, zero configuration
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 40 · 📅 2026-08-14
+⭐ 41 · 📅 2026-08-14
 
 This home assistant integration is a completely free AI service, an integration built from...
 
@@ -114,7 +114,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 124 · 📅 2026-08-12
+⭐ 125 · 📅 2026-08-12
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
@@ -143,7 +143,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 42 · 📅 2026-07-20
+⭐ 43 · 📅 2026-07-20
 
 Instant Message platform，即时通信合集
 
@@ -163,7 +163,7 @@ Home Assistant integration for Skins Pro card - download and manage skin themes
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 96 · 📅 2026-06-22
+⭐ 97 · 📅 2026-06-22
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
@@ -243,7 +243,7 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 978 · 📅 2025-10-16
+⭐ 979 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
