@@ -72,6 +72,15 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
+
+⭐ 2 · 📅 2026-08-22
+
+夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
+
+</td>
+<td width="50%" valign="top">
+
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
 ⭐ 125 · 📅 2026-08-21
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -86,17 +97,6 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 ⭐ 53 · 📅 2026-08-19
 
 home assistant windows client, zero configuration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
-
-⭐ 2 · 📅 2026-08-19
-
-夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
 </td>
 <td width="50%" valign="top">
