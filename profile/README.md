@@ -114,7 +114,7 @@ home assistant windows client, zero configuration
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
-⭐ 41 · 📅 2026-08-14
+⭐ 42 · 📅 2026-08-14
 
 This home assistant integration is a completely free AI service, an integration built from...
 
@@ -163,7 +163,7 @@ Home Assistant integration for Skins Pro card - download and manage skin themes
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 97 · 📅 2026-06-22
+⭐ 98 · 📅 2026-06-22
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
