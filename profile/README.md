@@ -72,6 +72,35 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [heiman_home](https://github.com/ha-china/heiman_home)
+
+⭐ 3 · 📅 2026-08-27
+
+Heiman cloud integration
+
+</td>
+<td width="50%" valign="top">
+
+### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
+
+⭐ 127 · 📅 2026-08-27
+
+Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ha-windows](https://github.com/ha-china/ha-windows)
+
+⭐ 53 · 📅 2026-08-27
+
+home assistant windows client, zero configuration
+
+</td>
+<td width="50%" valign="top">
+
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
 ⭐ 43 · 📅 2026-08-24
@@ -79,6 +108,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Instant Message platform，即时通信合集
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
@@ -88,28 +119,6 @@ Instant Message platform，即时通信合集
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
-
-⭐ 127 · 📅 2026-08-21
-
-Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
-
-</td>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 53 · 📅 2026-08-19
-
-home assistant windows client, zero configuration
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
@@ -119,6 +128,8 @@ home assistant windows client, zero configuration
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -128,8 +139,6 @@ home assistant windows client, zero configuration
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
@@ -139,17 +148,17 @@ This home assistant integration is a completely free AI service, an integration 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 73 · 📅 2026-08-04
+⭐ 74 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [skins-pro-hass](https://github.com/ha-china/skins-pro-hass)
@@ -159,6 +168,8 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 Home Assistant integration for Skins Pro card - download and manage skin themes
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
@@ -168,8 +179,6 @@ Home Assistant integration for Skins Pro card - download and manage skin themes
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [esphome_external_componnets](https://github.com/ha-china/esphome_external_componnets)
@@ -179,6 +188,8 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 咕御用esphome组件
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
@@ -186,17 +197,6 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 ⭐ 82 · 📅 2026-06-06
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [heiman_home](https://github.com/ha-china/heiman_home)
-
-⭐ 3 · 📅 2026-05-21
-
-Heiman cloud integration
 
 </td>
 <td width="50%" valign="top">
