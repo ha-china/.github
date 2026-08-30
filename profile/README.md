@@ -76,7 +76,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ⭐ 3 · 📅 2026-08-28
 
-萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant \| EZVIZ Cloud Push for HACS
+萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +174,7 @@ Home Assistant integration for Skins Pro card - download and manage skin themes
 
 ### [ha_claw](https://github.com/ha-china/ha_claw)
 
-⭐ 99 · 📅 2026-06-22
+⭐ 100 · 📅 2026-06-22
 
 As an aggregated AI feature of Home Assistant, it is designed to integrate and control thi...
 
