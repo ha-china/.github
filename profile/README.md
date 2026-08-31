@@ -94,7 +94,7 @@ Heiman cloud integration
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 126 · 📅 2026-08-27
+⭐ 127 · 📅 2026-08-27
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
@@ -154,7 +154,7 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 74 · 📅 2026-08-04
+⭐ 75 · 📅 2026-08-04
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
