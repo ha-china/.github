@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
 
-⭐ 2 · 📅 2026-08-31
+⭐ 3 · 📅 2026-08-31
 
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
