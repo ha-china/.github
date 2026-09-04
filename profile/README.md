@@ -72,6 +72,15 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ha-windows](https://github.com/ha-china/ha-windows)
+
+⭐ 54 · 📅 2026-09-03
+
+home assistant windows client, zero configuration
+
+</td>
+<td width="50%" valign="top">
+
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
 
 ⭐ 3 · 📅 2026-08-31
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
@@ -88,8 +99,6 @@ This repo is intended for use only in mainland China. If you are outside the mai
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
@@ -99,6 +108,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Heiman cloud integration
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
@@ -106,17 +117,6 @@ Heiman cloud integration
 ⭐ 128 · 📅 2026-08-27
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 54 · 📅 2026-08-27
-
-home assistant windows client, zero configuration
 
 </td>
 <td width="50%" valign="top">
