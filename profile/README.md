@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-09-03
+⭐ 35 · 📅 2026-09-04
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -72,20 +72,20 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
+
+⭐ 3 · 📅 2026-09-04
+
+夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
+
+</td>
+<td width="50%" valign="top">
+
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
 ⭐ 54 · 📅 2026-09-03
 
 home assistant windows client, zero configuration
-
-</td>
-<td width="50%" valign="top">
-
-### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
-
-⭐ 3 · 📅 2026-08-31
-
-夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ Heiman cloud integration
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 128 · 📅 2026-08-27
+⭐ 130 · 📅 2026-08-27
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
