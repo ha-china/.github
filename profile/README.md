@@ -114,7 +114,7 @@ Heiman cloud integration
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 130 · 📅 2026-08-27
+⭐ 132 · 📅 2026-08-27
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
