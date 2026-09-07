@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-09-06
+⭐ 35 · 📅 2026-09-07
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [ai_hub](https://github.com/ha-china/ai_hub)
+
+⭐ 43 · 📅 2026-09-07
+
+This home assistant integration is a completely free AI service, an integration built from...
+
+</td>
 <td width="50%" valign="top">
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
@@ -79,17 +88,17 @@ This repo is intended for use only in mainland China. If you are outside the mai
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 54 · 📅 2026-09-03
+⭐ 55 · 📅 2026-09-03
 
 home assistant windows client, zero configuration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
@@ -99,6 +108,8 @@ home assistant windows client, zero configuration
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
@@ -108,8 +119,6 @@ home assistant windows client, zero configuration
 Heiman cloud integration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
@@ -119,6 +128,8 @@ Heiman cloud integration
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -126,17 +137,6 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 ⭐ 43 · 📅 2026-08-24
 
 Instant Message platform，即时通信合集
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ai_hub](https://github.com/ha-china/ai_hub)
-
-⭐ 43 · 📅 2026-08-14
-
-This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
 <td width="50%" valign="top">
@@ -243,7 +243,7 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 979 · 📅 2025-10-16
+⭐ 980 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
