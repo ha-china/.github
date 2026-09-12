@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 35 · 📅 2026-09-11
+⭐ 35 · 📅 2026-09-12
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [ha-windows](https://github.com/ha-china/ha-windows)
+
+⭐ 56 · 📅 2026-09-12
+
+home assistant windows client, zero configuration
+
+</td>
 <td width="50%" valign="top">
 
 ### [ai_hub](https://github.com/ha-china/ai_hub)
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
@@ -86,17 +97,6 @@ This home assistant integration is a completely free AI service, an integration 
 ⭐ 6 · 📅 2026-09-11
 
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 56 · 📅 2026-09-09
-
-home assistant windows client, zero configuration
 
 </td>
 <td width="50%" valign="top">
