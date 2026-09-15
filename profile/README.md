@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 36 · 📅 2026-09-14
+⭐ 36 · 📅 2026-09-15
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -201,17 +201,6 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 </td>
 <td width="50%" valign="top">
 
-### [bubble-card-zh](https://github.com/ha-china/bubble-card-zh)
-
-⭐ 17 · 📅 2026-05-16
-
-Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [genelec](https://github.com/ha-china/genelec)
 
 ⭐ 2 · 📅 2026-04-23
@@ -219,6 +208,8 @@ Bubble Card 中文汉化版 - Home Assistant 极简卡片集合
 A Home Assistant integration designed for Genele Smart IP Devices
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant)
@@ -228,8 +219,6 @@ A Home Assistant integration designed for Genele Smart IP Devices
 
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ha-reachy-mini-card](https://github.com/ha-china/ha-reachy-mini-card)
@@ -239,6 +228,8 @@ A Home Assistant integration designed for Genele Smart IP Devices
 A custom Lovelace card that provides real-time 3D visualization of the Reachy Mini robot. ...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
@@ -248,8 +239,6 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Emby-HA](https://github.com/ha-china/Emby-HA)
@@ -259,7 +248,6 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 将 Emby 媒体服务器完美集成到 Home Assistant，实时监控服务器状态、播放活动和媒体库统计。
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 <!-- repo-list-end -->
