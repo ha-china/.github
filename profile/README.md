@@ -83,7 +83,7 @@ Instant Message platform，即时通信合集
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 76 · 📅 2026-09-13
+⭐ 77 · 📅 2026-09-13
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
