@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 265 · 📅 2026-07-31
+⭐ 266 · 📅 2026-07-31
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 36 · 📅 2026-09-20
+⭐ 36 · 📅 2026-09-21
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -154,7 +154,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 18 · 📅 2026-08-11
+⭐ 19 · 📅 2026-08-11
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
@@ -234,7 +234,7 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 
 ### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 981 · 📅 2025-10-16
+⭐ 982 · 📅 2025-10-16
 
 史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
