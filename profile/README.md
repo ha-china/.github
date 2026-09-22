@@ -114,7 +114,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
 
-⭐ 6 · 📅 2026-09-11
+⭐ 7 · 📅 2026-09-11
 
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
