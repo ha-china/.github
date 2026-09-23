@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 36 · 📅 2026-09-22
+⭐ 36 · 📅 2026-09-23
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -154,7 +154,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 19 · 📅 2026-08-11
+⭐ 20 · 📅 2026-08-11
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
