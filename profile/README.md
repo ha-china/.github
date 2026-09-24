@@ -154,7 +154,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
-⭐ 20 · 📅 2026-08-11
+⭐ 21 · 📅 2026-08-11
 
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
