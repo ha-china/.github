@@ -123,7 +123,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 3 · 📅 2026-08-28
+⭐ 4 · 📅 2026-08-28
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
