@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 266 · 📅 2026-07-31
+⭐ 266 · 📅 2026-09-27
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,13 +63,22 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 36 · 📅 2026-09-26
+⭐ 36 · 📅 2026-09-27
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### [ai_hub](https://github.com/ha-china/ai_hub)
+
+⭐ 43 · 📅 2026-09-27
+
+This home assistant integration is a completely free AI service, an integration built from...
+
+</td>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 Instant Message platform，即时通信合集
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
@@ -88,8 +99,6 @@ Instant Message platform，即时通信合集
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -97,15 +106,6 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 ⭐ 56 · 📅 2026-09-12
 
 home assistant windows client, zero configuration
-
-</td>
-<td width="50%" valign="top">
-
-### [ai_hub](https://github.com/ha-china/ai_hub)
-
-⭐ 43 · 📅 2026-09-11
-
-This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
 </tr>
