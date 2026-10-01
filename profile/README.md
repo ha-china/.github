@@ -123,7 +123,7 @@ home assistant windows client, zero configuration
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 4 · 📅 2026-08-28
+⭐ 5 · 📅 2026-08-28
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
