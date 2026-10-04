@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 36 · 📅 2026-10-03
+⭐ 36 · 📅 2026-10-04
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -103,7 +103,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 56 · 📅 2026-09-12
+⭐ 57 · 📅 2026-09-12
 
 home assistant windows client, zero configuration
 
