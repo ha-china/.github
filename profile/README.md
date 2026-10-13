@@ -94,7 +94,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 46 · 📅 2026-09-13
+⭐ 45 · 📅 2026-09-13
 
 Instant Message platform，即时通信合集
 
