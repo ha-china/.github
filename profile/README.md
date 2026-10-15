@@ -72,6 +72,15 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
+
+⭐ 7 · 📅 2026-10-15
+
+夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
+
+</td>
+<td width="50%" valign="top">
+
 ### [ai_hub](https://github.com/ha-china/ai_hub)
 
 ⭐ 43 · 📅 2026-10-14
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -88,8 +99,6 @@ This home assistant integration is a completely free AI service, an integration 
 home assistant windows client, zero configuration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -99,6 +108,8 @@ home assistant windows client, zero configuration
 Instant Message platform，即时通信合集
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
@@ -106,17 +117,6 @@ Instant Message platform，即时通信合集
 ⭐ 78 · 📅 2026-09-13
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
-
-⭐ 7 · 📅 2026-09-11
-
-夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
 </td>
 <td width="50%" valign="top">
