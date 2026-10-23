@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 267 · 📅 2026-10-20
+⭐ 267 · 📅 2026-10-05
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -66,26 +66,6 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 ⭐ 37 · 📅 2026-10-22
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
-
-⭐ 78 · 📅 2026-10-20
-
-Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
-
-</td>
-<td width="50%" valign="top">
-
-### [ha-windows](https://github.com/ha-china/ha-windows)
-
-⭐ 57 · 📅 2026-10-20
-
-home assistant windows client, zero configuration
 
 </td>
 </tr>
@@ -112,18 +92,18 @@ This home assistant integration is a completely free AI service, an integration 
 <tr>
 <td width="50%" valign="top">
 
-### [hass-panel](https://github.com/ha-china/hass-panel)
+### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 977 · 📅 2026-10-14
+⭐ 57 · 📅 2026-10-13
 
-史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
+home assistant windows client, zero configuration
 
 </td>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 45 · 📅 2026-10-13
+⭐ 45 · 📅 2026-09-13
 
 Instant Message platform，即时通信合集
 
@@ -132,11 +112,11 @@ Instant Message platform，即时通信合集
 <tr>
 <td width="50%" valign="top">
 
-### [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant)
+### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 6 · 📅 2026-09-29
+⭐ 78 · 📅 2026-09-13
 
-
+Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
 </td>
 <td width="50%" valign="top">
@@ -152,20 +132,20 @@ Instant Message platform，即时通信合集
 <tr>
 <td width="50%" valign="top">
 
+### [heiman_home](https://github.com/ha-china/heiman_home)
+
+⭐ 3 · 📅 2026-08-27
+
+Heiman cloud integration
+
+</td>
+<td width="50%" valign="top">
+
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
 ⭐ 136 · 📅 2026-08-27
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
-
-</td>
-<td width="50%" valign="top">
-
-### [heiman_home](https://github.com/ha-china/heiman_home)
-
-⭐ 3 · 📅 2026-08-25
-
-Heiman cloud integration
 
 </td>
 </tr>
@@ -221,9 +201,29 @@ A new generation of AI collocation artifact Home Assistant Pro Card. Copy and pa
 </td>
 <td width="50%" valign="top">
 
+### [genelec](https://github.com/ha-china/genelec)
+
+⭐ 2 · 📅 2026-04-23
+
+A Home Assistant integration designed for Genele Smart IP Devices
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Reachy_Mini_For_Home_Assistant](https://github.com/ha-china/Reachy_Mini_For_Home_Assistant)
+
+⭐ 6 · 📅 2026-04-12
+
+
+
+</td>
+<td width="50%" valign="top">
+
 ### [ha-reachy-mini-card](https://github.com/ha-china/ha-reachy-mini-card)
 
-⭐ 5 · 📅 2026-05-27
+⭐ 5 · 📅 2026-03-12
 
 A custom Lovelace card that provides real-time 3D visualization of the Reachy Mini robot. ...
 
@@ -232,11 +232,11 @@ A custom Lovelace card that provides real-time 3D visualization of the Reachy Mi
 <tr>
 <td width="50%" valign="top">
 
-### [genelec](https://github.com/ha-china/genelec)
+### [hass-panel](https://github.com/ha-china/hass-panel)
 
-⭐ 2 · 📅 2026-04-23
+⭐ 977 · 📅 2025-10-16
 
-A Home Assistant integration designed for Genele Smart IP Devices
+史上最简单的 Home Assistant 控制面板，基于 React 开发 \| 一键部署到 HAOS \| 有手就能用 \| 无需编程经验 \| 开箱即用
 
 </td>
 <td width="50%" valign="top">
