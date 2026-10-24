@@ -94,7 +94,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 57 · 📅 2026-10-13
+⭐ 58 · 📅 2026-10-13
 
 home assistant windows client, zero configuration
 
