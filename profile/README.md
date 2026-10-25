@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 267 · 📅 2026-10-05
+⭐ 268 · 📅 2026-10-05
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
