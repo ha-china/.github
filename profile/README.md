@@ -83,7 +83,7 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
 
-⭐ 58 · 📅 2026-10-27
+⭐ 59 · 📅 2026-10-27
 
 home assistant windows client, zero configuration
 
