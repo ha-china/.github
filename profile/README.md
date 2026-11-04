@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 137 · 📅 2026-11-01
+⭐ 137 · 📅 2026-11-03
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
