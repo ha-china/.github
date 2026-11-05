@@ -74,7 +74,7 @@ This repo is intended for use only in mainland China. If you are outside the mai
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 137 · 📅 2026-11-03
+⭐ 137 · 📅 2026-11-05
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
@@ -143,7 +143,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 8 · 📅 2026-08-28
+⭐ 9 · 📅 2026-08-28
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
