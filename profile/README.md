@@ -54,7 +54,7 @@ Welcome to the HA-China volunteer organization!
 
 ### [HAOS-CN](https://github.com/ha-china/HAOS-CN)
 
-⭐ 274 · 📅 2026-11-03
+⭐ 274 · 📅 2026-11-12
 
 Home Assistant OS Turbo is specifically optimized for the China region. All modifications ...
 
@@ -63,7 +63,7 @@ Home Assistant OS Turbo is specifically optimized for the China region. All modi
 
 ### [hassio-addons](https://github.com/ha-china/hassio-addons)
 
-⭐ 38 · 📅 2026-11-11
+⭐ 38 · 📅 2026-11-12
 
 This repo is intended for use only in mainland China. If you are outside the mainland, ple...
 
@@ -143,7 +143,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 9 · 📅 2026-08-28
+⭐ 10 · 📅 2026-08-28
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
