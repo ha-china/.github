@@ -114,7 +114,7 @@ Heiman cloud integration
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
 
-⭐ 7 · 📅 2026-10-17
+⭐ 8 · 📅 2026-10-17
 
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
 
