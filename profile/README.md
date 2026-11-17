@@ -83,7 +83,7 @@ Instant Message platform，即时通信合集
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
 
-⭐ 139 · 📅 2026-11-05
+⭐ 140 · 📅 2026-11-05
 
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
@@ -134,7 +134,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 78 · 📅 2026-09-13
+⭐ 79 · 📅 2026-09-13
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
