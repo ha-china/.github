@@ -134,7 +134,7 @@ This home assistant integration is a completely free AI service, an integration 
 
 ### [Skins-Pro](https://github.com/ha-china/Skins-Pro)
 
-⭐ 79 · 📅 2026-09-13
+⭐ 80 · 📅 2026-09-13
 
 Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，还有皮肤商店
 
@@ -143,7 +143,7 @@ Home Assistant Skin Pro  最简单的仪表盘，一键安装，一键使用，�
 
 ### [ezviz_push](https://github.com/ha-china/ezviz_push)
 
-⭐ 10 · 📅 2026-08-28
+⭐ 11 · 📅 2026-08-28
 
 萤石云信令推送集成，将萤石门铃/猫眼设备接入 Home Assistant
 
