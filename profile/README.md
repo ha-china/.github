@@ -83,7 +83,7 @@ HEIMAN device cards for Home Assistant
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
 
-⭐ 47 · 📅 2026-11-11
+⭐ 46 · 📅 2026-11-11
 
 Instant Message platform，即时通信合集
 
@@ -203,7 +203,7 @@ As an aggregated AI feature of Home Assistant, it is designed to integrate and c
 
 ### [html-card-pro](https://github.com/ha-china/html-card-pro)
 
-⭐ 83 · 📅 2026-06-06
+⭐ 84 · 📅 2026-06-06
 
 A new generation of AI collocation artifact Home Assistant Pro Card. Copy and paste to ins...
 
