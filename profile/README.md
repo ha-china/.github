@@ -72,6 +72,15 @@ This repo is intended for use only in mainland China. If you are outside the mai
 <tr>
 <td width="50%" valign="top">
 
+### [ai_hub](https://github.com/ha-china/ai_hub)
+
+⭐ 43 · 📅 2026-11-27
+
+This home assistant integration is a completely free AI service, an integration built from...
+
+</td>
+<td width="50%" valign="top">
+
 ### [virtual_devices](https://github.com/ha-china/virtual_devices)
 
 ⭐ 25 · 📅 2026-11-23
@@ -79,6 +88,8 @@ This repo is intended for use only in mainland China. If you are outside the mai
 This is a custom integration compliant with Home Assistant 2025.8.0+ standards, allowing y...
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [heiman_dashboard](https://github.com/ha-china/heiman_dashboard)
@@ -88,8 +99,6 @@ This is a custom integration compliant with Home Assistant 2025.8.0+ standards, 
 HEIMAN device cards for Home Assistant
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [cn_im_hub](https://github.com/ha-china/cn_im_hub)
@@ -99,6 +108,8 @@ HEIMAN device cards for Home Assistant
 Instant Message platform，即时通信合集
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [blueprint-studio](https://github.com/ha-china/blueprint-studio)
@@ -108,8 +119,6 @@ Instant Message platform，即时通信合集
 Modern VS Code-like file editor for Home Assistant. Edit YAML configs with syntax highligh...
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ha-windows](https://github.com/ha-china/ha-windows)
@@ -119,6 +128,8 @@ Modern VS Code-like file editor for Home Assistant. Edit YAML configs with synta
 home assistant windows client, zero configuration
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [heiman_home](https://github.com/ha-china/heiman_home)
@@ -128,8 +139,6 @@ home assistant windows client, zero configuration
 Heiman cloud integration
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [ha_quarkcloud](https://github.com/ha-china/ha_quarkcloud)
@@ -137,15 +146,6 @@ Heiman cloud integration
 ⭐ 9 · 📅 2026-10-17
 
 夸克网盘（Quark Cloud Drive）的 Home Assistant 自定义集成，提供云端备份代理和网盘信息传感器
-
-</td>
-<td width="50%" valign="top">
-
-### [ai_hub](https://github.com/ha-china/ai_hub)
-
-⭐ 43 · 📅 2026-10-14
-
-This home assistant integration is a completely free AI service, an integration built from...
 
 </td>
 </tr>
